@@ -1,3 +1,3 @@
 # imdbmovie
 This is IMDB movie website clone <br>
-Author - Ashish Bhardwaj
+Author - Ashish Bhardwaj (ashu)
